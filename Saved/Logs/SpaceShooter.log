@@ -878,3 +878,274 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-16.36.49:349][720]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/EnemyTexture.EnemyTexture
 [2020.09.04-16.36.49:349][720]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/GameTexture.GameTexture
 [2020.09.04-16.36.49:349][720]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/PlayerTexture.PlayerTexture
+[2020.09.04-16.51.54:200][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.09.04-16.51.57:769][961]LogSlate: Window 'Asset Report' being destroyed
+[2020.09.04-16.53.19:756][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pPlayerThruster.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:756][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pPlayerThruster.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:757][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pPlayerThruster.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:757][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pPlayerThruster.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:761][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pPlayerThruster.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:761][814]LoadErrors: Failed to load /Game/Art/Materials/M_Pixel_Cube_Particle.M_Pixel_Cube_Particle Referenced by ParticleModuleRequired_0
+[2020.09.04-16.53.19:762][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pPlayerThruster.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:765][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:766][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:766][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:767][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:767][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:768][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:768][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:769][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:771][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:772][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:772][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:772][814]LoadErrors: Failed to load /Game/Art/Materials/m_flare_03.m_flare_03 Referenced by ParticleModuleRequired_3
+[2020.09.04-16.53.19:773][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:776][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:776][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:777][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:778][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:778][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:779][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:779][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:780][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:782][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:783][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:784][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:784][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset' failed to load '/Game/Art/Materials/m_flare_03': Can't find file.
+[2020.09.04-16.53.19:787][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_ParticleOpaque': Can't find file.
+[2020.09.04-16.53.19:788][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_ParticleOpaque': Can't find file.
+[2020.09.04-16.53.19:788][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_ParticleOpaque': Can't find file.
+[2020.09.04-16.53.19:789][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_ParticleOpaque': Can't find file.
+[2020.09.04-16.53.19:792][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_ParticleOpaque': Can't find file.
+[2020.09.04-16.53.19:792][814]LoadErrors: Failed to load /Game/Art/Materials/M_Pixel_Cube_ParticleOpaque.M_Pixel_Cube_ParticleOpaque Referenced by ParticleModuleRequired_0
+[2020.09.04-16.53.19:792][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_ParticleOpaque': Can't find file.
+[2020.09.04-16.53.19:793][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_ParticleOpaque': Can't find file.
+[2020.09.04-16.53.19:793][814]LoadErrors: Failed to load /Game/Art/Materials/M_Pixel_Cube_ParticleOpaque.M_Pixel_Cube_ParticleOpaque Referenced by ParticleModuleRequired_1
+[2020.09.04-16.53.19:793][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_ParticleOpaque': Can't find file.
+[2020.09.04-16.53.19:797][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:797][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:798][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:798][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:801][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:801][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:802][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:802][814]LoadErrors: Failed to load /Game/Art/Materials/M_Pixel_Cube_Particle.M_Pixel_Cube_Particle Referenced by ParticleModuleRequired_1
+[2020.09.04-16.53.19:802][814]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset' failed to load '/Game/Art/Materials/M_Pixel_Cube_Particle': Can't find file.
+[2020.09.04-16.53.19:904][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pPlayerThruster" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pPlayerThruster.uasset" SILENT=true
+[2020.09.04-16.53.19:931][814]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pPlayerThruster617C9B6947E03F5BB40601A0CE99BC41.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pPlayerThruster.uasset'
+[2020.09.04-16.53.19:937][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pHitPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pHitPlayer.uasset" SILENT=true
+[2020.09.04-16.53.19:983][814]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitPlayer8C8E99C44455D3395E0A32B7D8C5BE33.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pHitPlayer.uasset'
+[2020.09.04-16.53.19:990][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pHitEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pHitEnemy.uasset" SILENT=true
+[2020.09.04-16.53.20:036][814]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitEnemyC8EF732D4E3EB4526296AA8F0F67E0FA.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pHitEnemy.uasset'
+[2020.09.04-16.53.20:043][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pDeathPlayer.uasset" SILENT=true
+[2020.09.04-16.53.20:100][814]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathPlayer2F6B0474495736CC91013C973641FEEA.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pDeathPlayer.uasset'
+[2020.09.04-16.53.20:108][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pDeathEnemy.uasset" SILENT=true
+[2020.09.04-16.53.20:177][814]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathEnemy08DB7D2F4FEE728878DE8380D8AD78D0.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pDeathEnemy.uasset'
+[2020.09.04-16.53.20:425][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.09.04-16.53.20:435][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.09.04-16.53.20:445][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.09.04-16.53.20:454][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.09.04-16.53.20:462][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.53.20:479][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.09.04-16.53.20:487][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.53.20:527][814]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-16.53.20:527][814]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pPlayerThruster.pPlayerThruster
+[2020.09.04-16.53.20:527][814]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pHitPlayer.pHitPlayer
+[2020.09.04-16.53.20:527][814]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pHitEnemy.pHitEnemy
+[2020.09.04-16.53.20:527][814]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pDeathPlayer.pDeathPlayer
+[2020.09.04-16.53.20:527][814]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pDeathEnemy.pDeathEnemy
+[2020.09.04-16.55.00:619][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Art/Particles/pHitPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset" SILENT=true
+[2020.09.04-16.55.00:639][860]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitPlayerF664B08A4ED42BD92EA5EEB4AFF95532.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitPlayer.uasset'
+[2020.09.04-16.55.00:645][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Art/Particles/pPlayerThruster" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pPlayerThruster.uasset" SILENT=true
+[2020.09.04-16.55.00:658][860]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pPlayerThrusterA575B53F4598C5C1D8796EBAD2BEAB95.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pPlayerThruster.uasset'
+[2020.09.04-16.55.00:665][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Art/Particles/pHitEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset" SILENT=true
+[2020.09.04-16.55.00:683][860]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitEnemyAAFE1CAC4028A62E4A790EAE5F9DC363.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pHitEnemy.uasset'
+[2020.09.04-16.55.00:689][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Art/Particles/pDeathPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset" SILENT=true
+[2020.09.04-16.55.00:710][860]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathPlayerBF4C373F4A149AB7752976B012F79E43.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathPlayer.uasset'
+[2020.09.04-16.55.00:717][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Art/Particles/pDeathEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset" SILENT=true
+[2020.09.04-16.55.00:737][860]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathEnemy1428F32649F04C921D088080BB9C70CC.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Particles/pDeathEnemy.uasset'
+[2020.09.04-16.55.00:942][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.09.04-16.55.00:952][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.09.04-16.55.00:962][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.09.04-16.55.00:972][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.09.04-16.55.00:981][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.09.04-16.55.00:996][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.09.04-16.55.01:004][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.09.04-16.55.01:047][860]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-16.55.01:047][860]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Art/Particles/pHitPlayer.pHitPlayer
+[2020.09.04-16.55.01:047][860]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Art/Particles/pPlayerThruster.pPlayerThruster
+[2020.09.04-16.55.01:047][860]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Art/Particles/pHitEnemy.pHitEnemy
+[2020.09.04-16.55.01:047][860]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Art/Particles/pDeathPlayer.pDeathPlayer
+[2020.09.04-16.55.01:047][860]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Art/Particles/pDeathEnemy.pDeathEnemy
+[2020.09.04-16.55.16:948][ 86]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Materials/m_flare_03.uasset' failed to load '/Game/Art/Textures/T_sunflare': Can't find file.
+[2020.09.04-16.55.16:949][ 86]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Materials/m_flare_03.uasset' failed to load '/Game/Art/Textures/T_sunflare': Can't find file.
+[2020.09.04-16.55.16:950][ 86]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Materials/m_flare_03.uasset' failed to load '/Game/Art/Textures/T_sunflare': Can't find file.
+[2020.09.04-16.55.16:951][ 86]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Materials/m_flare_03.uasset' failed to load '/Game/Art/Textures/T_sunflare': Can't find file.
+[2020.09.04-16.55.16:952][ 86]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Materials/m_flare_03.uasset' failed to load '/Game/Art/Textures/T_sunflare': Can't find file.
+[2020.09.04-16.55.16:952][ 86]LoadErrors: Failed to load /Game/Art/Textures/T_sunflare.T_sunflare Referenced by MaterialExpressionTextureSample_1
+[2020.09.04-16.55.16:953][ 86]LogLinker: Warning: While loading 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Art/Materials/m_flare_03.uasset' failed to load '/Game/Art/Textures/T_sunflare': Can't find file.
+[2020.09.04-16.55.16:955][ 86]LogMaterial: Display: Missing cached shader map for material m_flare_03, compiling. 
+[2020.09.04-16.55.16:956][ 86]LogMaterial: Warning: D:\Projects\Unreal Projects\Github Repos\SpaceShooter\Content\Art\Art\Materials\m_flare_03.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.09.04-16.55.16:957][ 86]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.09.04-16.55.17:121][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/ExampleContent/Particles/pHitPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Particles/pHitPlayer.uasset" SILENT=true
+[2020.09.04-16.55.17:171][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitPlayer16EE7D0D4EB0A4D5AABD2B8CCF3E4FBB.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Particles/pHitPlayer.uasset'
+[2020.09.04-16.55.17:205][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pPlayerThrusterCE93D21F4BE86C68D0E5CC858D823C84.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Particles/pPlayerThruster.uasset'
+[2020.09.04-16.55.17:212][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/ExampleContent/Particles/pHitEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Particles/pHitEnemy.uasset" SILENT=true
+[2020.09.04-16.55.17:261][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitEnemy3CA1D2DD435A7042436C1ABCFD2AD18A.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Particles/pHitEnemy.uasset'
+[2020.09.04-16.55.17:342][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathPlayer1387968446E22FF2B793C1B55416727B.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Particles/pDeathPlayer.uasset'
+[2020.09.04-16.55.17:412][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathEnemy2A0B7ED54F7BB3BCBD6CC0B4DBD6605E.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Particles/pDeathEnemy.uasset'
+[2020.09.04-16.55.17:435][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/ExampleContent/Materials/mGame" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/mGame.uasset" SILENT=true
+[2020.09.04-16.55.17:453][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mGameC04AC7384EED8B87C37456A95738F25E.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/mGame.uasset'
+[2020.09.04-16.55.17:472][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/ExampleContent/Materials/mPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/mPlayer.uasset" SILENT=true
+[2020.09.04-16.55.17:493][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mPlayerD48C4B0C48E72617CA3FE59EC18907E9.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/mPlayer.uasset'
+[2020.09.04-16.55.17:535][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/M_Pixel_Cube_Particle1E7485044A4FC5D14D2E52A01961396C.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/M_Pixel_Cube_Particle.uasset'
+[2020.09.04-16.55.17:555][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/ExampleContent/Materials/mEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/mEnemy.uasset" SILENT=true
+[2020.09.04-16.55.17:569][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mEnemy369E65094B82ACB3CA7CB28AE70CE460.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/mEnemy.uasset'
+[2020.09.04-16.55.17:589][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/ExampleContent/Materials/m_flare_03" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/m_flare_03.uasset" SILENT=true
+[2020.09.04-16.55.17:605][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/m_flare_03F0C773554BE5EE21653547A4CAC1B9D4.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/m_flare_03.uasset'
+[2020.09.04-16.55.17:654][ 86]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/M_Pixel_Cube_ParticleOpaque668B680D46A287FF0A905DB1826DE883.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/ExampleContent/Materials/M_Pixel_Cube_ParticleOpaque.uasset'
+[2020.09.04-16.55.18:027][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.04-16.55.18:038][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.09.04-16.55.18:047][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.09.04-16.55.18:055][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.09.04-16.55.18:063][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.09.04-16.55.18:073][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.09.04-16.55.18:080][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.09.04-16.55.18:087][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.18:096][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.09.04-16.55.18:103][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.18:111][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.18:128][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.04-16.55.18:136][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.18:205][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating ParticleSystem /Game/Art/ExampleContent/Particles/pHitPlayer.pHitPlayer
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating ParticleSystem /Game/Art/ExampleContent/Particles/pPlayerThruster.pPlayerThruster
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating ParticleSystem /Game/Art/ExampleContent/Particles/pHitEnemy.pHitEnemy
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating ParticleSystem /Game/Art/ExampleContent/Particles/pDeathPlayer.pDeathPlayer
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating ParticleSystem /Game/Art/ExampleContent/Particles/pDeathEnemy.pDeathEnemy
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating Material /Game/Art/ExampleContent/Materials/mGame.mGame
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating Material /Game/Art/ExampleContent/Materials/mPlayer.mPlayer
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating Material /Game/Art/ExampleContent/Materials/M_Pixel_Cube_Particle.M_Pixel_Cube_Particle
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating Material /Game/Art/ExampleContent/Materials/mEnemy.mEnemy
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating Material /Game/Art/ExampleContent/Materials/m_flare_03.m_flare_03
+[2020.09.04-16.55.18:205][ 86]LogContentValidation: Display: Validating Material /Game/Art/ExampleContent/Materials/M_Pixel_Cube_ParticleOpaque.M_Pixel_Cube_ParticleOpaque
+[2020.09.04-16.55.21:271][441]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.09.04-16.55.22:113][542]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.09.04-16.55.30:321][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleContent/Particles/pHitPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pHitPlayer.uasset" SILENT=true
+[2020.09.04-16.55.30:369][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitPlayer00B853654EAC86F319358FA76AAFC2FB.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pHitPlayer.uasset'
+[2020.09.04-16.55.30:402][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pPlayerThruster292380B441A9947A814C08A69B913AA1.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pPlayerThruster.uasset'
+[2020.09.04-16.55.30:421][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleContent/Materials/mEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/mEnemy.uasset" SILENT=true
+[2020.09.04-16.55.30:434][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mEnemyAA0E9CEE424839A9CA059FB88DA6CC08.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/mEnemy.uasset'
+[2020.09.04-16.55.30:440][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleContent/Particles/pHitEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pHitEnemy.uasset" SILENT=true
+[2020.09.04-16.55.30:488][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitEnemyC2478768428F6210995B42B1D55E5170.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pHitEnemy.uasset'
+[2020.09.04-16.55.30:495][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleContent/Particles/pDeathPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pDeathPlayer.uasset" SILENT=true
+[2020.09.04-16.55.30:565][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathPlayerCE6711884BA1B3E9C6C999A20A454E3A.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pDeathPlayer.uasset'
+[2020.09.04-16.55.30:573][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleContent/Particles/pDeathEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pDeathEnemy.uasset" SILENT=true
+[2020.09.04-16.55.30:633][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathEnemyA204491140E32183381F869FFA96810B.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Particles/pDeathEnemy.uasset'
+[2020.09.04-16.55.30:650][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleContent/Materials/mPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/mPlayer.uasset" SILENT=true
+[2020.09.04-16.55.30:664][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mPlayer1333E1B84722CB575C2191AA9B5EF9F3.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/mPlayer.uasset'
+[2020.09.04-16.55.30:680][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleContent/Materials/mGame" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/mGame.uasset" SILENT=true
+[2020.09.04-16.55.30:695][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mGame3DA0374F4A42AFF4FB00B782C7E80C4E.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/mGame.uasset'
+[2020.09.04-16.55.30:733][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/M_Pixel_Cube_Particle705DA16E402A41CA0A5A13A97E7660A3.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/M_Pixel_Cube_Particle.uasset'
+[2020.09.04-16.55.30:749][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleContent/Materials/m_flare_03" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/m_flare_03.uasset" SILENT=true
+[2020.09.04-16.55.30:764][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/m_flare_03203791EE4EFEC059749F5A8A7D46961A.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/m_flare_03.uasset'
+[2020.09.04-16.55.30:795][302]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/M_Pixel_Cube_ParticleOpaque95C0EC61423D166B17CD1E8DA50A7237.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/ExampleContent/Materials/M_Pixel_Cube_ParticleOpaque.uasset'
+[2020.09.04-16.55.31:209][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.09.04-16.55.31:219][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.09.04-16.55.31:227][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.04-16.55.31:236][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.09.04-16.55.31:245][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.09.04-16.55.31:253][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.31:261][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.09.04-16.55.31:269][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.31:277][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.09.04-16.55.31:284][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.31:292][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.31:308][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.09.04-16.55.31:316][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.55.31:375][302]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating ParticleSystem /Game/ExampleContent/Particles/pHitPlayer.pHitPlayer
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating ParticleSystem /Game/ExampleContent/Particles/pPlayerThruster.pPlayerThruster
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating Material /Game/ExampleContent/Materials/mEnemy.mEnemy
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating ParticleSystem /Game/ExampleContent/Particles/pHitEnemy.pHitEnemy
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating ParticleSystem /Game/ExampleContent/Particles/pDeathPlayer.pDeathPlayer
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating ParticleSystem /Game/ExampleContent/Particles/pDeathEnemy.pDeathEnemy
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating Material /Game/ExampleContent/Materials/mPlayer.mPlayer
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating Material /Game/ExampleContent/Materials/mGame.mGame
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating Material /Game/ExampleContent/Materials/M_Pixel_Cube_Particle.M_Pixel_Cube_Particle
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating Material /Game/ExampleContent/Materials/m_flare_03.m_flare_03
+[2020.09.04-16.55.31:375][302]LogContentValidation: Display: Validating Material /Game/ExampleContent/Materials/M_Pixel_Cube_ParticleOpaque.M_Pixel_Cube_ParticleOpaque
+[2020.09.04-16.57.21:189][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pDeathEnemy.uasset" SILENT=true
+[2020.09.04-16.57.21:215][125]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathEnemy11B70B5A4498296BF8DBC9A8FC3CC2F0.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pDeathEnemy.uasset'
+[2020.09.04-16.57.21:221][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pDeathPlayer.uasset" SILENT=true
+[2020.09.04-16.57.21:243][125]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pDeathPlayer453F4BAE481D183035FEE79E673B0632.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pDeathPlayer.uasset'
+[2020.09.04-16.57.21:249][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pHitEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pHitEnemy.uasset" SILENT=true
+[2020.09.04-16.57.21:267][125]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitEnemyFE50C7A443C23BB8C504468CD74D84CF.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pHitEnemy.uasset'
+[2020.09.04-16.57.21:273][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pHitPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pHitPlayer.uasset" SILENT=true
+[2020.09.04-16.57.21:291][125]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pHitPlayer3169E85E4BE17882A485FCBCB3EBBAD8.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pHitPlayer.uasset'
+[2020.09.04-16.57.21:297][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pPlayerThruster" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pPlayerThruster.uasset" SILENT=true
+[2020.09.04-16.57.21:310][125]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/pPlayerThruster1442A13B484FDD8D316917A7814A10EB.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Particles/pPlayerThruster.uasset'
+[2020.09.04-16.57.21:529][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.09.04-16.57.21:540][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.09.04-16.57.21:549][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.09.04-16.57.21:559][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.09.04-16.57.21:567][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.09.04-16.57.21:586][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.09.04-16.57.21:595][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.09.04-16.57.21:639][125]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-16.57.21:639][125]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pDeathEnemy.pDeathEnemy
+[2020.09.04-16.57.21:639][125]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pDeathPlayer.pDeathPlayer
+[2020.09.04-16.57.21:639][125]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pHitEnemy.pHitEnemy
+[2020.09.04-16.57.21:639][125]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pHitPlayer.pHitPlayer
+[2020.09.04-16.57.21:639][125]LogContentValidation: Display: Validating ParticleSystem /Game/Art/Particles/pPlayerThruster.pPlayerThruster
+[2020.09.04-16.57.26:886][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/mEnemy" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/mEnemy.uasset" SILENT=true
+[2020.09.04-16.57.26:900][592]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mEnemyD2E6E7F1421C6B653145AD859478CBED.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/mEnemy.uasset'
+[2020.09.04-16.57.26:917][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/mGame" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/mGame.uasset" SILENT=true
+[2020.09.04-16.57.26:933][592]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mGameF82A4C364C839ECF9784C1ABF1636C19.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/mGame.uasset'
+[2020.09.04-16.57.26:951][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/mPlayer" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/mPlayer.uasset" SILENT=true
+[2020.09.04-16.57.26:964][592]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/mPlayerBF8FC51F452180A90963A094BC54EC10.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/mPlayer.uasset'
+[2020.09.04-16.57.26:984][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/m_flare_03" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/m_flare_03.uasset" SILENT=true
+[2020.09.04-16.57.26:999][592]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/m_flare_034ED0028D45DAEC8C1603B5816027FC27.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/m_flare_03.uasset'
+[2020.09.04-16.57.27:015][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/M_Pixel_Cube_Particle" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/M_Pixel_Cube_Particle.uasset" SILENT=true
+[2020.09.04-16.57.27:027][592]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/M_Pixel_Cube_Particle40F5DAEF416631CAC5F0B09D5A0ECD49.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/M_Pixel_Cube_Particle.uasset'
+[2020.09.04-16.57.27:061][592]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/M_Pixel_Cube_ParticleOpaque02A6B49F4BF96CB01E9E9DBCF3D51907.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Materials/M_Pixel_Cube_ParticleOpaque.uasset'
+[2020.09.04-16.57.27:294][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.09.04-16.57.27:304][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.09.04-16.57.27:313][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.09.04-16.57.27:323][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.09.04-16.57.27:331][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.04-16.57.27:340][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.09.04-16.57.27:357][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.09.04-16.57.27:366][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.09.04-16.57.27:408][592]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.04-16.57.27:408][592]LogContentValidation: Display: Validating Material /Game/Art/Materials/mEnemy.mEnemy
+[2020.09.04-16.57.27:408][592]LogContentValidation: Display: Validating Material /Game/Art/Materials/mGame.mGame
+[2020.09.04-16.57.27:408][592]LogContentValidation: Display: Validating Material /Game/Art/Materials/mPlayer.mPlayer
+[2020.09.04-16.57.27:408][592]LogContentValidation: Display: Validating Material /Game/Art/Materials/m_flare_03.m_flare_03
+[2020.09.04-16.57.27:408][592]LogContentValidation: Display: Validating Material /Game/Art/Materials/M_Pixel_Cube_Particle.M_Pixel_Cube_Particle
+[2020.09.04-16.57.27:408][592]LogContentValidation: Display: Validating Material /Game/Art/Materials/M_Pixel_Cube_ParticleOpaque.M_Pixel_Cube_ParticleOpaque
+[2020.09.04-16.59.44:659][ 88]LogRenderer: Reallocating scene render targets to support 1272x484 Format 10 NumSamples 1 (Frame:28632).
+[2020.09.04-16.59.44:851][102]LogRenderer: Reallocating scene render targets to support 1272x496 Format 10 NumSamples 1 (Frame:28636).
+[2020.09.04-16.59.44:903][103]LogRenderer: Reallocating scene render targets to support 1272x504 Format 10 NumSamples 1 (Frame:28638).
+[2020.09.04-16.59.44:969][104]LogRenderer: Reallocating scene render targets to support 1272x520 Format 10 NumSamples 1 (Frame:28640).
+[2020.09.04-16.59.45:038][105]LogRenderer: Reallocating scene render targets to support 1272x596 Format 10 NumSamples 1 (Frame:28642).
+[2020.09.04-16.59.45:094][106]LogRenderer: Reallocating scene render targets to support 1272x684 Format 10 NumSamples 1 (Frame:28644).
+[2020.09.04-16.59.45:158][107]LogRenderer: Reallocating scene render targets to support 1272x704 Format 10 NumSamples 1 (Frame:28646).
+[2020.09.04-16.59.45:221][108]LogRenderer: Reallocating scene render targets to support 1272x740 Format 10 NumSamples 1 (Frame:28648).
+[2020.09.04-16.59.45:279][109]LogRenderer: Reallocating scene render targets to support 1272x776 Format 10 NumSamples 1 (Frame:28650).
+[2020.09.04-16.59.45:342][110]LogRenderer: Reallocating scene render targets to support 1272x804 Format 10 NumSamples 1 (Frame:28652).
+[2020.09.04-16.59.45:397][111]LogRenderer: Reallocating scene render targets to support 1272x828 Format 10 NumSamples 1 (Frame:28654).
+[2020.09.04-16.59.45:468][112]LogRenderer: Reallocating scene render targets to support 1272x852 Format 10 NumSamples 1 (Frame:28656).
+[2020.09.04-16.59.45:532][113]LogRenderer: Reallocating scene render targets to support 1272x880 Format 10 NumSamples 1 (Frame:28658).
+[2020.09.04-16.59.45:594][114]LogRenderer: Reallocating scene render targets to support 1272x896 Format 10 NumSamples 1 (Frame:28660).
+[2020.09.04-16.59.58:692][237]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Art/Particles/pHitEnemy.pHitEnemy
+[2020.09.04-16.59.58:752][237]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.09.04-17.00.05:363][964]LogSlate: Window 'pHitEnemy' being destroyed
+[2020.09.04-17.00.05:372][964]LogCascade: Quitting Cascade. FXSystem=0x00000284C1AFF700
+[2020.09.04-17.00.05:395][964]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-17.00.05:395][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-17.00.08:987][384]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Art/Particles/pHitPlayer.pHitPlayer
+[2020.09.04-17.00.14:784][ 34]LogSlate: Window 'pHitPlayer' being destroyed
+[2020.09.04-17.00.14:793][ 34]LogCascade: Quitting Cascade. FXSystem=0x00000284D36DD6C0
+[2020.09.04-17.00.14:807][ 34]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-17.00.14:807][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
