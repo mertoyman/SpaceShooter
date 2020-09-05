@@ -1149,3 +1149,368 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-17.00.14:793][ 34]LogCascade: Quitting Cascade. FXSystem=0x00000284D36DD6C0
 [2020.09.04-17.00.14:807][ 34]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2020.09.04-17.00.14:807][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-17.02.24:141][104]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Models/Coin.Coin
+[2020.09.04-17.02.24:629][104]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-17.02.24:629][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-17.02.24:901][104]LogRenderer: Reallocating scene render targets to support 1272x920 Format 10 NumSamples 1 (Frame:1).
+[2020.09.04-17.02.24:901][104]LogSlate: Took 0.002831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.04-17.02.29:297][583]LogSlate: Window 'Coin' being destroyed
+[2020.09.04-17.02.29:308][583]LogSlate: Window 'Coin' being destroyed
+[2020.09.04-17.02.29:319][583]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-17.02.29:319][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-17.02.31:258][705]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Models/enemyShip2.enemyShip2
+[2020.09.04-17.02.31:482][705]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-17.02.31:482][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-17.02.37:111][321]LogSlate: Window 'enemyShip2' being destroyed
+[2020.09.04-17.02.37:120][321]LogSlate: Window 'enemyShip2' being destroyed
+[2020.09.04-17.02.37:131][321]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-17.02.37:131][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-17.02.46:160][ 95]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Models/Enem1.Enem1
+[2020.09.04-17.02.46:361][ 95]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-17.02.46:361][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-17.03.09:356][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Models/Enem1" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Models/Enem1.uasset" SILENT=true
+[2020.09.04-17.03.09:378][966]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Enem1FE864D0E4309F05C399F948EC1B6BC88.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Models/Enem1.uasset'
+[2020.09.04-17.03.09:395][966]AssetCheck: New page: Asset Save: Enem1
+[2020.09.04-17.03.09:395][966]LogContentValidation: Display: Validating StaticMesh /Game/Art/Models/Enem1.Enem1
+[2020.09.04-17.03.10:643][ 95]LogSlate: Window 'Enem1' being destroyed
+[2020.09.04-17.03.10:664][ 95]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-17.03.10:664][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-17.03.27:570][262]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fd1fc51d-6f1d-4eb9-9866-91d4585059d9}.
+[2020.09.04-17.03.27:570][262]LogTemp: Resetting audio stream to device id 
+[2020.09.04-17.03.27:610][262]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-17.03.27:610][262]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-17.11.58:735][937]LogTemp: Resetting audio stream to device id 
+[2020.09.04-17.11.58:796][937]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-17.11.58:796][937]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-17.11.59:177][937]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890008: UNKNOWN (line: 1171)
+[2020.09.04-17.11.59:865][940]LogTemp: Resetting audio stream to device id 
+[2020.09.04-17.11.59:891][940]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-17.11.59:891][940]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-17.12.48:094][ 84]LogTemp: Resetting audio stream to device id 
+[2020.09.04-17.33.32:968][ 84]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-17.33.32:968][ 84]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-17.33.34:208][ 85]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.09.04-17.33.34:227][ 85]LogTemp: Resetting audio stream to device id 
+[2020.09.04-17.33.34:263][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-17.33.34:263][ 85]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-17.33.37:228][ 95]LogHttp: Warning: 000002852914A400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32173734-462E-5423-1A33-B0B53FCAE05F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=33812ba54b77c71125945f8a3c6a2dc8%7C2b7d013b6b6e4599bc03a72ed8460c53%7C9cf8703c-a15b-418e-bde0-f41df3ab3912&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.09.04-17.33.37:228][ 95]LogHttp: Warning: 000002852914A400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.09.04-17.33.37:228][ 95]LogHttp: Warning: 000002852914A400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x284eed07f70 [can pipeline])
+[2020.09.04-17.33.37:228][ 95]LogHttp: Warning: 000002852914A400: libcurl info message cache 1 (Re-using existing connection! (#17) with host datarouter.ol.epicgames.com)
+[2020.09.04-17.33.37:228][ 95]LogHttp: Warning: 000002852914A400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.232.24.118) port 443 (#17))
+[2020.09.04-17.33.37:228][ 95]LogHttp: Warning: 000002852914A400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.09.04-17.33.37:228][ 95]LogHttp: Warning: 000002852914A400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.09.04-17.33.37:229][ 95]LogHttp: Warning: 000002852914A400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.09.04-17.33.37:229][ 95]LogHttp: Warning: 000002852914A400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.09.04-17.33.37:229][ 95]LogHttp: Warning: 000002852914A400: libcurl info message cache 7 (Closing connection 17)
+[2020.09.04-17.33.37:560][ 96]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32173734-462E-5423-1A33-B0B53FCAE05F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=33812ba54b77c71125945f8a3c6a2dc8%7C2b7d013b6b6e4599bc03a72ed8460c53%7C9cf8703c-a15b-418e-bde0-f41df3ab3912&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.09.04-20.50.31:512][355]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1b8b3af2-185e-42ce-922e-68843b9f4281}.
+[2020.09.04-20.50.31:513][355]LogTemp: Resetting audio stream to device id 
+[2020.09.04-20.50.32:486][355]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-20.50.32:486][355]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-20.50.32:708][356]LogTemp: Resetting audio stream to device id 
+[2020.09.04-20.50.32:754][356]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-20.50.32:754][356]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-20.50.33:044][357]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1b8b3af2-185e-42ce-922e-68843b9f4281}.
+[2020.09.04-20.50.33:044][357]LogTemp: Resetting audio stream to device id 
+[2020.09.04-20.50.34:622][357]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-20.50.34:623][357]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-20.50.34:718][358]LogTemp: Resetting audio stream to device id 
+[2020.09.04-20.50.34:755][358]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-20.50.34:755][358]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-21.20.33:961][727]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d6d7243-4dd0-4c21-a620-5551f5b6c376}.
+[2020.09.04-21.20.33:961][727]LogTemp: Resetting audio stream to device id 
+[2020.09.04-21.20.34:150][727]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-21.20.34:150][727]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-21.20.35:861][732]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1b8b3af2-185e-42ce-922e-68843b9f4281}.
+[2020.09.04-21.20.35:861][732]LogTemp: Resetting audio stream to device id 
+[2020.09.04-21.20.37:487][732]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-21.20.37:487][732]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-21.20.37:577][733]LogTemp: Resetting audio stream to device id 
+[2020.09.04-21.20.37:610][733]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-21.20.37:610][733]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-23.31.46:980][225]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fd1fc51d-6f1d-4eb9-9866-91d4585059d9}.
+[2020.09.04-23.31.46:980][225]LogTemp: Resetting audio stream to device id 
+[2020.09.04-23.31.48:152][225]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-23.31.48:153][225]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-23.31.48:247][226]LogTemp: Resetting audio stream to device id 
+[2020.09.04-23.31.48:284][226]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-23.31.48:284][226]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-23.32.47:645][403]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1b8b3af2-185e-42ce-922e-68843b9f4281}.
+[2020.09.04-23.32.47:645][403]LogTemp: Resetting audio stream to device id 
+[2020.09.04-23.32.47:803][403]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-23.32.47:803][403]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-23.33.01:130][443]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8d6d7243-4dd0-4c21-a620-5551f5b6c376}.
+[2020.09.04-23.33.01:130][443]LogTemp: Resetting audio stream to device id 
+[2020.09.04-23.33.01:166][443]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-23.33.01:166][443]LogAudioMixer: Display: 1: FrontRight
+[2020.09.05-12.17.55:547][555]LogTemp: Resetting audio stream to device id 
+[2020.09.05-12.17.55:911][555]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.05-12.17.55:911][555]LogAudioMixer: Display: 1: FrontRight
+[2020.09.05-12.17.57:396][557]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.09.05-12.17.57:401][558]LogHttp: Warning: 000002852914A400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32173734-462E-5423-1A33-B0B53FCAE05F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=33812ba54b77c71125945f8a3c6a2dc8%7C2b7d013b6b6e4599bc03a72ed8460c53%7C9cf8703c-a15b-418e-bde0-f41df3ab3912&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.09.05-12.17.57:401][558]LogHttp: Warning: 000002852914A400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.09.05-12.17.57:401][558]LogHttp: Warning: 000002852914A400: libcurl info message cache 0 (Connection 170 seems to be dead!)
+[2020.09.05-12.17.57:402][558]LogHttp: Warning: 000002852914A400: libcurl info message cache 1 (Closing connection 170)
+[2020.09.05-12.17.57:402][558]LogHttp: Warning: 000002852914A400: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.09.05-12.17.57:402][558]LogHttp: Warning: 000002852914A400: libcurl info message cache 3 (Closing connection 171)
+[2020.09.05-12.17.57:402][558]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32173734-462E-5423-1A33-B0B53FCAE05F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=33812ba54b77c71125945f8a3c6a2dc8%7C2b7d013b6b6e4599bc03a72ed8460c53%7C9cf8703c-a15b-418e-bde0-f41df3ab3912&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.09.05-12.17.59:003][562]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.09.05-12.17.59:003][562]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.09.05-12.17.59:003][562]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.09.05-12.17.59:042][562]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.09.05-12.18.01:869][566]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1b8b3af2-185e-42ce-922e-68843b9f4281}.
+[2020.09.05-12.18.01:869][566]LogTemp: Resetting audio stream to device id 
+[2020.09.05-12.18.07:874][566]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.05-12.18.07:875][566]LogAudioMixer: Display: 1: FrontRight
+[2020.09.05-12.18.08:002][567]LogTemp: Resetting audio stream to device id 
+[2020.09.05-12.18.08:041][567]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.05-12.18.08:041][567]LogAudioMixer: Display: 1: FrontRight
+[2020.09.05-12.20.42:024][294]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{1b8b3af2-185e-42ce-922e-68843b9f4281}.
+[2020.09.05-12.20.42:359][294]LogTemp: Resetting audio stream to device id 
+[2020.09.05-12.20.42:391][294]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.05-12.20.42:391][294]LogAudioMixer: Display: 1: FrontRight
+[2020.09.05-12.30.27:882][ 38]LogEditorViewport: Clicking Background
+[2020.09.05-12.30.28:415][ 80]LogEditorViewport: Clicking Background
+[2020.09.05-12.31.13:802][950]LogSlate: Window 'New Level' being destroyed
+[2020.09.05-12.31.13:814][950]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.05-12.31.13:844][950]LightingResults: New page: Lighting Build
+[2020.09.05-12.31.13:844][950]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.09.05-12.31.13:846][950]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.31.13:846][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.31.13:846][950]MapCheck: New page: Map Check
+[2020.09.05-12.31.13:846][950]LightingResults: New page: Lighting Build
+[2020.09.05-12.31.13:865][950]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000284B052A980), frame # 124950
+[2020.09.05-12.31.13:865][950]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000284D661C800), frame # 124950
+[2020.09.05-12.31.13:869][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.09.05-12.31.13:993][950]LogAIModule: Creating AISystem for world Untitled_1
+[2020.09.05-12.31.13:993][950]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000284D0E74800), frame # 124950
+[2020.09.05-12.31.13:993][950]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028508D0AC00), frame # 124950
+[2020.09.05-12.31.14:083][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.05-12.31.14:095][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.09.05-12.31.14:103][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.05-12.31.14:105][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.758ms to complete.
+[2020.09.05-12.31.14:105][950]LogFileHelpers: Loading map 'Template_Default' took 0.292
+[2020.09.05-12.31.28:198][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.31.42:348][313]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.31.42:764][363]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.31.42:906][380]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.31.58:244][106]LogEditorViewport: Clicking Background
+[2020.09.05-12.31.59:643][270]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.31.59:643][270]Can't find target actor or component.
+[2020.09.05-12.31.59:818][291]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.31.59:818][291]Can't find target actor or component.
+[2020.09.05-12.32.05:374][951]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.05:533][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.06:833][126]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.06:974][143]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.10:017][508]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.10:194][529]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.14:152][  3]Cmd: TRANSACTION UNDO
+[2020.09.05-12.32.14:153][  3]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.05-12.32.15:834][155]Cmd: TRANSACTION UNDO
+[2020.09.05-12.32.15:834][155]LogEditorTransaction: Undo Clicking Background
+[2020.09.05-12.32.16:261][201]Cmd: TRANSACTION UNDO
+[2020.09.05-12.32.16:261][201]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.05-12.32.16:617][242]Cmd: TRANSACTION UNDO
+[2020.09.05-12.32.16:617][242]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.05-12.32.16:811][263]Cmd: TRANSACTION UNDO
+[2020.09.05-12.32.16:811][263]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.05-12.32.17:004][283]Cmd: TRANSACTION UNDO
+[2020.09.05-12.32.17:004][283]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.05-12.32.24:011][123]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.05-12.32.39:557][963]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.40:216][ 42]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.40:359][ 59]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.42:544][321]Cmd: CAMERA ALIGN
+[2020.09.05-12.32.42:744][345]Cmd: CAMERA ALIGN
+[2020.09.05-12.32.52:178][473]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.32.56:227][955]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.09.05-12.33.05:409][ 18]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Main.Main
+[2020.09.05-12.33.05:418][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.09.05-12.33.05:424][ 18]Cmd: MAP LOAD FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.05-12.33.05:424][ 18]LightingResults: New page: Lighting Build
+[2020.09.05-12.33.05:424][ 18]LoadErrors: New page: Loading map: Main.umap
+[2020.09.05-12.33.05:424][ 18]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.33.05:424][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.33.05:424][ 18]MapCheck: New page: Map Check
+[2020.09.05-12.33.05:424][ 18]LightingResults: New page: Lighting Build
+[2020.09.05-12.33.05:433][ 18]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000284D0E74800), frame # 137018
+[2020.09.05-12.33.05:433][ 18]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028508D0AC00), frame # 137018
+[2020.09.05-12.33.05:434][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.05-12.33.05:506][ 18]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.05-12.33.05:506][ 18]LogAIModule: Creating AISystem for world Main
+[2020.09.05-12.33.05:506][ 18]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000284D2548E00), frame # 137018
+[2020.09.05-12.33.05:506][ 18]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028508D0B740), frame # 137018
+[2020.09.05-12.33.05:517][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.09.05-12.33.05:531][ 18]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.05-12.33.05:531][ 18]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.603ms to complete.
+[2020.09.05-12.33.05:531][ 18]LogFileHelpers: Loading map 'Main' took 0.108
+[2020.09.05-12.35.56:706][327]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.09.05-12.35.57:035][327]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2020.09.05-12.35.57:960][327]LogSlate: Took 0.001342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.05-12.36.48:731][473]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2020.09.05-12.36.48:752][473]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.36.48:752][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.37.12:503][396]LogActorFactory: Actor Factory created enemyShip2
+[2020.09.05-12.37.14:627][649]LogActorFactory: Actor Factory created enemyShip2
+[2020.09.05-12.43.17:440][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.09.05-12.43.17:452][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.05-12.43.17:467][166]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Main_Auto10AFA6CC1486566C079EB1697C0E7CF64.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2020.09.05-12.43.17:482][166]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.078
+[2020.09.05-12.43.17:482][166]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2020.09.05-12.48.43:393][291]LogActorFactory: Actor Factory created Enem1
+[2020.09.05-12.48.52:692][ 64]LogActorFactory: Actor Factory created enemyShip2
+[2020.09.05-12.49.04:340][986]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Models/Enem1.Enem1
+[2020.09.05-12.49.04:602][986]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.49.04:602][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.49.07:437][239]LogSlate: Window 'Enem1' being destroyed
+[2020.09.05-12.49.07:454][239]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.49.07:454][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.49.09:083][351]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Models/enemyShip2.enemyShip2
+[2020.09.05-12.49.09:303][351]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.49.09:303][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.49.24:528][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Models/enemyShip2" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Models/enemyShip2.uasset" SILENT=true
+[2020.09.05-12.49.24:596][410]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/enemyShip2199FE79E4DE1B9CA4CBE6F8D31EAEEC6.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Art/Models/enemyShip2.uasset'
+[2020.09.05-12.49.24:634][410]AssetCheck: New page: Asset Save: enemyShip2
+[2020.09.05-12.49.24:634][410]LogContentValidation: Display: Validating StaticMesh /Game/Art/Models/enemyShip2.enemyShip2
+[2020.09.05-12.49.27:517][693]LogSlate: Window 'enemyShip2' being destroyed
+[2020.09.05-12.49.27:533][693]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.49.27:533][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.49.40:050][935]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Models/Boss.Boss
+[2020.09.05-12.49.40:288][935]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.49.40:288][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.50.03:771][529]LogSlate: Window 'Boss' being destroyed
+[2020.09.05-12.50.03:792][529]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-12.50.03:792][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-12.50.06:081][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.05-12.50.06:105][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.09.05-12.50.06:124][783]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Main2E4B69F14637E9971D278B82468FCF8C.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Maps/Main.umap'
+[2020.09.05-12.50.06:158][783]AssetCheck: New page: Asset Save: Main
+[2020.09.05-12.50.06:158][783]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2020.09.05-12.57.31:673][213]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.05-12.59.56:123][936]MapCheck: New page: Map Check
+[2020.09.05-12.59.56:136][936]LightingResults: New page: Lighting Build - 5 Sep 2020, 18:59:56
+[2020.09.05-12.59.56:256][936]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.05-12.59.56:374][936]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.05-12.59.56:405][936]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.05-12.59.57:428][936]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.05-12.59.57:428][936]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12268
+[2020.09.05-13.00.07:229][936]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.05-13.00.07:230][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.05-13.00.07:230][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.05-13.00.07:230][936]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.05-13.00.07:230][936]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.05-13.00.07:230][936]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.05-13.00.07:445][936]LogEditorBuildUtils: Build time 0:11
+[2020.09.05-13.00.07:462][936]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mPlayer, compiling. 
+[2020.09.05-13.00.07:471][936]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mPlayer, compiling. 
+[2020.09.05-13.00.07:504][937]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.05-13.00.07:505][937]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.05-13.00.08:622][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.09.05-13.00.10:345][ 30]Job is a success!
+[2020.09.05-13.00.10:609][ 31]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.092s
+[2020.09.05-13.00.10:609][ 31]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.05-13.00.10:609][ 31]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.09.05-13.00.10:609][ 31]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.05-13.00.10:609][ 31]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.09.05-13.00.10:609][ 31]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.09.05-13.00.10:609][ 31]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.09.05-13.00.10:609][ 31]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.05-13.00.10:610][ 31]LogVolumetricLightmapImport:          Main 			 6 bricks 	 100.0% (Persistent Level)
+[2020.09.05-13.00.10:667][ 31]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.09.05-13.00.10:667][ 31]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.09.05-13.00.10:667][ 31]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.09.05-13.00.10:667][ 31]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.09.05-13.00.10:667][ 31]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.09.05-13.00.10:667][ 31]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.09.05-13.00.10:667][ 31]Lightmass on DESKTOP-9IPGTH3: 902 ms total, 152 ms importing, 12 ms setup, 60 ms photons, 605 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 4.23 sec total, 313 ms processing.
+[2020.09.05-13.00.10:667][ 31]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.09.05-13.00.10:686][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.09.05-13.00.10:858][ 31]LogStaticLightingSystem: Illumination: 14.5 sec (13 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2020.09.05-13.00.10:858][ 31]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.09.05-13.00.10:858][ 31]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.09.05-13.00.11:237][ 31]DumpUnbuiltLightIteractions
+[2020.09.05-13.00.11:237][ 31]Lights with unbuilt interactions: 0
+[2020.09.05-13.00.11:237][ 31]
+[2020.09.05-13.00.11:237][ 31]Primitives with unbuilt interactions: 0
+[2020.09.05-13.00.11:281][ 32]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.05-13.00.11:282][ 32]MapCheck: New page: Main - 5 Sep 2020, 19:00:11
+[2020.09.05-13.00.11:284][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.588ms to complete.
+[2020.09.05-13.00.11:435][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.09.05-13.00.11:438][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Maps/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.05-13.00.11:454][ 44]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Main_Auto29C54ED4A460965B5A425949F2B29F9E1.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2020.09.05-13.00.11:458][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.039
+[2020.09.05-13.00.11:458][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.039
+[2020.09.05-13.00.27:489][932]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.05-13.01.50:104][460]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.05-13.04.50:148][460]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.05-13.05.29:008][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.09.05-13.05.52:550][121]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2020.09.05-13.05.52:558][121]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-13.05.52:558][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-13.06.24:142][786]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.05-13.10.20:392][569]Cmd: DELETE
+[2020.09.05-13.10.20:392][569]Cmd: ACTOR DELETE
+[2020.09.05-13.10.20:397][569]LogEditorActor: Deleted Actor: SkyLight
+[2020.09.05-13.10.20:424][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.09.05-13.10.20:437][569]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.09.05-13.11.36:489][486]MapCheck: New page: Map Check
+[2020.09.05-13.11.36:502][486]LightingResults: New page: Lighting Build - 5 Sep 2020, 19:11:36
+[2020.09.05-13.11.36:521][486]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.05-13.11.36:523][486]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.05-13.11.36:523][486]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.05-13.11.36:524][486]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.05-13.11.36:524][486]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12268
+[2020.09.05-13.11.55:067][486]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.05-13.11.55:067][486]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.05-13.11.55:067][486]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.05-13.11.55:067][486]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.05-13.11.55:067][486]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.05-13.11.55:067][486]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.05-13.11.55:256][486]LogEditorBuildUtils: Build time 0:18
+[2020.09.05-13.11.55:419][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.09.05-13.11.56:795][559]Job is a success!
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.090s
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.05-13.11.57:055][560]LogVolumetricLightmapImport:          Main 			 6 bricks 	 100.0% (Persistent Level)
+[2020.09.05-13.11.57:086][560]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.09.05-13.11.57:086][560]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2020.09.05-13.11.57:086][560]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2020.09.05-13.11.57:086][560]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2020.09.05-13.11.57:086][560]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.09.05-13.11.57:086][560]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.09.05-13.11.57:086][560]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.09.05-13.11.57:086][560]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2020.09.05-13.11.57:086][560]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.09.05-13.11.57:106][560]Lightmass on DESKTOP-9IPGTH3: 894 ms total, 174 ms importing, 13 ms setup, 54 ms photons, 589 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 4.12 sec total, 325 ms processing.
+[2020.09.05-13.11.57:109][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.09.05-13.11.57:250][560]LogStaticLightingSystem: Illumination: 20.5 sec (15 ms encoding lightmaps, 6 ms encoding shadowmaps)
+[2020.09.05-13.11.57:250][560]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.09.05-13.11.57:250][560]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.09.05-13.11.58:070][560]DumpUnbuiltLightIteractions
+[2020.09.05-13.11.58:070][560]Lights with unbuilt interactions: 0
+[2020.09.05-13.11.58:070][560]
+[2020.09.05-13.11.58:070][560]Primitives with unbuilt interactions: 0
+[2020.09.05-13.11.58:160][561]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.05-13.11.58:160][561]MapCheck: New page: Main - 5 Sep 2020, 19:11:58
+[2020.09.05-13.11.58:161][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.278ms to complete.
+[2020.09.05-13.11.59:677][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.09.05-13.11.59:679][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Maps/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.05-13.11.59:699][737]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Main_Auto3621FA30A44F436FFC4173082A34CCFDA.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2020.09.05-13.11.59:702][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.040
+[2020.09.05-13.11.59:702][737]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.040
+[2020.09.05-13.12.52:866][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.05-13.12.52:885][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.09.05-13.12.52:903][861]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Main5134D980461F339767CA08B55490D7F7.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Maps/Main.umap'
+[2020.09.05-13.12.52:928][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2020.09.05-13.12.52:950][861]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Main_BuiltData158216FA45B0818C5AA011B93FD674FD.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Maps/Main_BuiltData.uasset'
+[2020.09.05-13.12.52:969][861]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.05-13.12.52:969][861]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2020.09.05-13.12.52:969][861]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
