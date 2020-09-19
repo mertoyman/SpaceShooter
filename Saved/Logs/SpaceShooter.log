@@ -2049,3 +2049,26 @@ Please see Output Log for details.
 [2020.09.19-15.26.17:220][776]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F387515400), frame # 280776
 [2020.09.19-15.26.17:222][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
 [2020.09.19-15.26.17:250][777]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.09.19-15.28.18:184][447]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Misc/BP_GameMode.BP_GameMode
+[2020.09.19-15.28.28:138][239]LogSlate: Window 'BP_GameMode' being destroyed
+[2020.09.19-15.28.53:901][ 83]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/BP_SpawnerEnemy.BP_SpawnerEnemy
+[2020.09.19-15.38.46:032][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.19-15.38.46:034][293]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.031
+[2020.09.19-15.38.46:034][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Misc/BP_GameMode] ([1] browsable assets)...
+[2020.09.19-15.38.46:034][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Misc/BP_GameMode]
+[2020.09.19-15.38.46:122][293]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_GameMode_Auto469925B394B08F986FF27249AC6012227.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Blueprints/Misc/BP_GameMode_Auto4.uasset'
+[2020.09.19-15.38.46:125][293]LogFileHelpers: Auto-saving content packages took 0.090
+[2020.09.19-15.39.51:924][831]BlueprintLog: New page: Compile BP_GameMode
+[2020.09.19-15.39.52:074][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.09.19-15.39.52:183][831]LogSlate: Took 0.001099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.19-15.39.53:621][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/BP_GameMode" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_GameMode.uasset" SILENT=true
+[2020.09.19-15.39.53:704][999]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_GameModeF77FFA5F4F888ADE86E704823628F322.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_GameMode.uasset'
+[2020.09.19-15.39.53:727][999]AssetCheck: New page: Asset Save: BP_GameMode
+[2020.09.19-15.39.53:727][999]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Misc/BP_GameMode.BP_GameMode
+[2020.09.19-15.40.23:142][509]BlueprintLog: New page: Compile BP_GameMode
+[2020.09.19-15.40.23:207][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.09.19-15.40.23:739][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/BP_GameMode" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_GameMode.uasset" SILENT=true
+[2020.09.19-15.40.23:821][561]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_GameMode99CCE1C545B149F591590E9A4124C1FA.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_GameMode.uasset'
+[2020.09.19-15.40.23:842][561]AssetCheck: New page: Asset Save: BP_GameMode
+[2020.09.19-15.40.23:842][561]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Misc/BP_GameMode.BP_GameMode
+[2020.09.19-15.44.25:725][519]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/HUD.HUD
