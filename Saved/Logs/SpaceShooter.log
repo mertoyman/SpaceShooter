@@ -2072,3 +2072,63 @@ Please see Output Log for details.
 [2020.09.19-15.40.23:842][561]AssetCheck: New page: Asset Save: BP_GameMode
 [2020.09.19-15.40.23:842][561]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Misc/BP_GameMode.BP_GameMode
 [2020.09.19-15.44.25:725][519]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/HUD.HUD
+[2020.09.19-15.48.33:063][801]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Projectiles/BP_ProjectileEnemy.BP_ProjectileEnemy
+[2020.09.19-15.49.10:967][574]BlueprintLog: New page: Compile BP_ProjectileEnemy
+[2020.09.19-15.49.11:042][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.19-15.49.51:145][ 53]BlueprintLog: New page: Compile BP_ProjectileEnemy
+[2020.09.19-15.49.51:206][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.09.19-15.49.52:086][132]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_ProjectileEnemyDD425E3744ECA91F8135D3900D95A6B0.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Projectiles/BP_ProjectileEnemy.uasset'
+[2020.09.19-15.49.52:103][132]AssetCheck: New page: Asset Save: BP_ProjectileEnemy
+[2020.09.19-15.49.52:103][132]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectiles/BP_ProjectileEnemy.BP_ProjectileEnemy
+[2020.09.19-15.50.05:093][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Misc/BP_Player.BP_Player
+[2020.09.19-15.53.32:471][692]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-15.53.32:471][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-15.53.32:482][692]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-15.53.32:482][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-15.53.34:572][926]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-15.53.34:572][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-15.53.34:579][926]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.19-15.53.34:580][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.19-15.55.48:417][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.09.19-15.55.48:419][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.040
+[2020.09.19-15.55.48:420][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Misc/BP_Player] ([1] browsable assets)...
+[2020.09.19-15.55.48:442][530]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Misc/BP_Player.BP_Player]
+[2020.09.19-15.55.48:442][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Misc/BP_Player]
+[2020.09.19-15.55.48:596][530]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_Player_Auto598AAA0104106A03FB78681AF6CB00F93.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Blueprints/Misc/BP_Player_Auto5.uasset'
+[2020.09.19-15.55.48:599][530]LogFileHelpers: Auto-saving content packages took 0.180
+[2020.09.19-16.03.59:047][296]BlueprintLog: New page: Compile BP_Player
+[2020.09.19-16.03.59:151][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.09.19-16.04.43:805][484]BlueprintLog: New page: Compile BP_Player
+[2020.09.19-16.04.43:899][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.09.19-16.04.44:458][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/BP_Player" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset" SILENT=true
+[2020.09.19-16.04.44:602][527]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_Player9B362A1047D22B38A4FB43A3F0A6B353.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset'
+[2020.09.19-16.04.44:626][527]AssetCheck: New page: Asset Save: BP_Player
+[2020.09.19-16.04.44:626][527]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Misc/BP_Player.BP_Player
+[2020.09.19-16.07.46:917][847]BlueprintLog: New page: Compile BP_Player
+[2020.09.19-16.07.47:008][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.09.19-16.07.47:901][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/BP_Player" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset" SILENT=true
+[2020.09.19-16.07.48:039][921]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_Player666966834E43EFA5D8422ABBF9A68EC3.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset'
+[2020.09.19-16.07.48:062][921]AssetCheck: New page: Asset Save: BP_Player
+[2020.09.19-16.07.48:062][921]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Misc/BP_Player.BP_Player
+[2020.09.19-16.07.53:222][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/BP_Player" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset" SILENT=true
+[2020.09.19-16.07.53:355][417]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_Player512D92CB4CC6E765689EFCBF6349A583.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset'
+[2020.09.19-16.07.53:377][417]AssetCheck: New page: Asset Save: BP_Player
+[2020.09.19-16.07.53:377][417]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Misc/BP_Player.BP_Player
+[2020.09.19-16.09.45:049][994]BlueprintLog: New page: Compile BP_Player
+[2020.09.19-16.09.45:148][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.09.19-16.09.45:815][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/BP_Player" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset" SILENT=true
+[2020.09.19-16.09.45:961][ 40]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_Player050C704A4808F5AE0880D3828E101309.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset'
+[2020.09.19-16.09.45:986][ 40]AssetCheck: New page: Asset Save: BP_Player
+[2020.09.19-16.09.45:986][ 40]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Misc/BP_Player.BP_Player
+[2020.09.19-16.10.14:541][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.09.19-16.10.14:542][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.031
+[2020.09.19-16.10.14:542][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Misc/BP_Player] ([1] browsable assets)...
+[2020.09.19-16.10.14:542][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Misc/BP_Player]
+[2020.09.19-16.10.14:688][602]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_Player_Auto6354C3E644D70A42B1A7E61B88CE24258.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/Autosaves/Game/Blueprints/Misc/BP_Player_Auto6.uasset'
+[2020.09.19-16.10.14:691][602]LogFileHelpers: Auto-saving content packages took 0.148
+[2020.09.19-16.11.35:007][112]BlueprintLog: New page: Compile BP_Player
+[2020.09.19-16.11.35:105][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.09.19-16.11.35:879][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/BP_Player" FILE="D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset" SILENT=true
+[2020.09.19-16.11.36:020][175]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Saved/BP_PlayerB9D2664248F4344544E863965F1A9A5A.tmp' to 'D:/Projects/Unreal Projects/Github Repos/SpaceShooter/Content/Blueprints/Misc/BP_Player.uasset'
+[2020.09.19-16.11.36:044][175]AssetCheck: New page: Asset Save: BP_Player
+[2020.09.19-16.11.36:044][175]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Misc/BP_Player.BP_Player
